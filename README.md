@@ -1,5 +1,5 @@
 # Getting Started
-Install the dependencies and run the project
+Making a Miffy business card to test out GitHub!
 ```
 npm install
 npm start
